@@ -1,0 +1,10 @@
+Stars = https://www.deviantart.com/prussiaart/art/Sun-on-a-transparent-background-720156039
+Mercury = http://freepngimages.com/planet-mercury-transparent-background/
+Venus = http://www.pngmart.com/image/37608
+Earth = https://commons.wikimedia.org/wiki/File:Earth_Western_Hemisphere_transparent_background.png
+Mars = https://space-facts.com/transparent-planet-pictures/
+Jupiter = https://space-facts.com/transparent-planet-pictures/
+Saturn = https://space-facts.com/transparent-planet-pictures/
+Uranus = https://space-facts.com/transparent-planet-pictures/
+Neptune = https://space-facts.com/transparent-planet-pictures/
+Moon = https://space-facts.com/transparent-planet-pictures/
