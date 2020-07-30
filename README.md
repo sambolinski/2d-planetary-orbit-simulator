@@ -1,4 +1,4 @@
-# 2D planetary orbitsimulator
+# 2D Planetary Orbit Simulator
 ![application](https://i.imgur.com/XPjPdpt.png)
 ##About
 A physics simulation made in Java which simulates how planets orbit each other. The graphics are made using Swing.
